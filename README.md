@@ -1,6 +1,6 @@
 # Description
 
-Collection of notebooks with my play around and find out sessions.
+Collection of notebooks with my play around and find out sessions. Each notebook explores a different concept in data science, probability, statistics, or bioinformatics, with practical code examples and visualizations.
 
 ## Existing Notebooks
 
@@ -15,6 +15,3 @@ Collection of notebooks with my play around and find out sessions.
 - [Expectation Maximisation](https://github.com/Claptar/play_around_find_out/blob/main/statistics/expectation_maximisation.ipynb)
 - [Regression to the Mean](https://github.com/Claptar/play_around_find_out/blob/main/statistics/regression_to_the_mean.ipynb)
 
----
-
-Each notebook explores a different concept in data science, probability, statistics, or bioinformatics, with practical code examples and visualizations.
