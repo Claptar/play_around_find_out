@@ -14,4 +14,4 @@ Collection of notebooks with my play around and find out sessions. Each notebook
 - [Correlation](https://github.com/Claptar/play_around_find_out/blob/main/statistics/correlation.ipynb)
 - [Expectation Maximisation](https://github.com/Claptar/play_around_find_out/blob/main/statistics/expectation_maximisation.ipynb)
 - [Regression to the Mean](https://github.com/Claptar/play_around_find_out/blob/main/statistics/regression_to_the_mean.ipynb)
-
+- [Sum of chi2-distributions](https://github.com/Claptar/play_around_find_out/blob/main/statistics/chi2_sum.ipynb)
