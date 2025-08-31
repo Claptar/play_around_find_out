@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="330" viewBox="0 0 530 330">
+<rect x="10" y="10" width="170" height="38" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="22" y="29.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" dominant-baseline="middle">length 1</text>
+<rect x="180" y="10" width="170" height="38" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="192" y="29.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" dominant-baseline="middle">length 2</text>
+<rect x="350" y="10" width="170" height="38" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="29.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" dominant-baseline="middle">length 3</text>
+<line x1="180" y1="10" x2="180" y2="320" stroke="#000000" stroke-width="1"/>
+<line x1="350" y1="10" x2="350" y2="320" stroke="#000000" stroke-width="1"/>
+<line x1="520" y1="10" x2="520" y2="320" stroke="#000000" stroke-width="1"/>
+<rect x="10" y="10" width="510" height="310" fill="none" stroke="#000000" stroke-width="1"/>
+<rect x="10" y="48" width="170" height="136" fill="#007bff" stroke="#000000" stroke-width="1"/>
+<text x="22" y="116.0" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">0 = 0</text>
+<rect x="10" y="184" width="170" height="136" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="22" y="252.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">1 = 1</text>
+<rect x="180" y="48" width="170" height="68" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="192" y="82.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">00 = 0</text>
+<rect x="180" y="116" width="170" height="68" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="192" y="150.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">01 = 1</text>
+<rect x="180" y="184" width="170" height="68" fill="#007bff" stroke="#000000" stroke-width="1"/>
+<text x="192" y="218.0" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">10 = 2</text>
+<rect x="180" y="252" width="170" height="68" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="192" y="286.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">11 = 3</text>
+<rect x="350" y="48" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="65.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">000 = 0</text>
+<rect x="350" y="82" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="99.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">001 = 1</text>
+<rect x="350" y="116" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="133.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">010 = 2</text>
+<rect x="350" y="150" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="167.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">011 = 3</text>
+<rect x="350" y="184" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="201.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">100 = 4</text>
+<rect x="350" y="218" width="170" height="34" fill="#f0f0f0" stroke="#000000" stroke-width="1"/>
+<text x="362" y="235.0" fill="#000000" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">101 = 5</text>
+<rect x="350" y="252" width="170" height="34" fill="#007bff" stroke="#000000" stroke-width="1"/>
+<text x="362" y="269.0" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">110 = 6</text>
+<rect x="350" y="286" width="170" height="34" fill="#007bff" stroke="#000000" stroke-width="1"/>
+<text x="362" y="303.0" fill="#ffffff" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" dominant-baseline="middle">111 = 7</text>
+</svg>
