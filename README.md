@@ -16,3 +16,6 @@ Collection of notebooks with my play around and find out sessions. Each notebook
 - [Regression to the Mean](https://github.com/Claptar/play_around_find_out/blob/main/statistics/regression_to_the_mean.ipynb)
 - [Sum of chi2-distributions](https://github.com/Claptar/play_around_find_out/blob/main/statistics/chi2_sum.ipynb)
 - [Sample variance](https://github.com/Claptar/play_around_find_out/blob/main/statistics/sample_variance.ipynb)
+
+### Information theory
+- [Symbol coding](https://github.com/Claptar/play_around_find_out/blob/main/information_theory/symbol_coding.ipynb)
